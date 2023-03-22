@@ -7,7 +7,5 @@ Please note that the primary language of communication on this repository is Rom
 If you have any questions or concerns, please feel free to reach out to us in English. Thank you for your understanding.
 
 
-
---
-Puteti deschide un "issue", deschide o discutie sau lasa un comentariu cu privire la Jurnal Gold. 
+> Puteti deschide un "issue", lansa o discutie sau lasa un comentariu cu privire la Jurnal Gold. 
 Multumim!
